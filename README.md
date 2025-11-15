@@ -1,1 +1,0 @@
-# VisionTransformer-Comparison

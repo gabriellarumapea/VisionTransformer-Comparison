@@ -1,0 +1,13 @@
+# Folder besar
+checkpoints/
+dataset/
+dataset_organized/
+results/
+
+# File Python
+*.pyc
+__pycache__/
+
+# Colab
+.ipynb_checkpoints/
+sample_data/
