@@ -1,0 +1,28 @@
+# Dataset folders
+dataset/
+dataset_organized/
+checkpoints/
+results/
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
